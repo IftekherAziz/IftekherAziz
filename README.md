@@ -119,7 +119,7 @@ I'm seeking opportunities to:
 
 ### 📫 Let's Connect!
 
-<div align="center">
+<div>
 
 | Platform | Link |
 |----------|------|
