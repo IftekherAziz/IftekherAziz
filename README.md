@@ -99,7 +99,7 @@ Hey! 👋 I'm Iftekher Aziz, an MSc Computer Science student at the University o
 **"Identification of Spoken Language Using a Machine Learning Approach"**
 - 📚 23rd International Conference on Computer and Information Technology, 2020
 - 🏢 Publisher: IEEE
-- 🔗 [View Publication](#)
+- 🔗 [View Publication](https://ieeexplore.ieee.org/abstract/document/9392744)
 
 ---
 
@@ -113,7 +113,7 @@ I'm seeking opportunities to:
 ✅ **Learn & adapt quickly** - New tools, technologies, evolving requirements  
 ✅ **Develop reliable systems** - High-performance, production-grade platforms  
 
-**Ideal Roles:** Junior DevOps Engineer, ML Infrastructure Engineer, Backend Developer, Software Engineer
+**Ideal Roles:** Frontend Developer, Backend Developer, Software Engineer,  Junior DevOps Engineer, ML Infrastructure Engineer
 
 ---
 
@@ -138,22 +138,79 @@ I'm seeking opportunities to:
 ```python
 class IftekherAziz:
     def __init__(self):
+        self.name = "Iftekher Aziz"
+        self.role = "MSc CS Student & Aspiring DevOps Engineer"
+        self.location = "Vienna, Austria 🇦🇹"
+        
         self.currently_doing = [
-            "🎓 Finishing MSc thesis",
+            "🎓 Finishing MSc thesis on ML & Data Science",
             "🐳 Learning Docker & Kubernetes",
-            "☁️ Exploring AWS/Azure",
-            "🇩🇪 Improving German (A2→B1)"
+            "☁️ Exploring AWS/Azure cloud platforms",
+            "🇩🇪 Improving German (A2 → B1)",
+            "💼 Seeking DevOps/ML Infrastructure roles"
         ]
         
         self.interests = {
-            "professional": ["DevOps", "AI Infrastructure", "Cloud Systems"],
-            "research": ["GPU Computing", "Astrophysical Data", "ML Optimization"],
-            "hobbies": ["CTF Challenges", "Open Source", "Tech Communities"]
+            "professional": [
+                "DevOps Engineering",
+                "AI/ML Infrastructure", 
+                "Cloud Systems & Architecture",
+                "CI/CD Automation"
+            ],
+            "research": [
+                "GPU-Accelerated Computing",
+                "Astrophysical Data Analysis",
+                "Machine Learning Optimization",
+                "Density-Based Clustering"
+            ],
+            "hobbies": [
+                "CTF Challenges & Binary Exploitation",
+                "Open Source Contributions",
+                "Tech Communities & Meetups",
+                "Exploring Vienna's Tech Scene"
+            ]
+        }
+        
+        self.tech_stack = {
+            "languages": ["Python", "JavaScript", "TypeScript", "SQL"],
+            "backend": ["Node.js", "Express.js", "NestJS"],
+            "frontend": ["React", "Next.js", "TailwindCSS"],
+            "devops": ["Docker", "Git", "Linux", "CI/CD"],
+            "ml_tools": ["NumPy", "Pandas", "RAPIDS", "CUDA"],
+            "databases": ["MongoDB", "PostgreSQL", "MySQL"],
+            "learning": ["Kubernetes", "AWS", "Azure", "Terraform"]
         }
         
     def current_motto(self):
         return "From stars to servers - building systems that scale ✨"
+    
+    def get_fun_fact(self):
+        return "I analyze data from space telescopes AND build web apps. Best of both worlds! 🚀🌌"
+    
+    def say_hello(self):
+        return """
+        👋 Hey! I'm always excited to:
+        • Collaborate on DevOps/ML projects
+        • Discuss GPU computing & astrophysics
+        • Share knowledge about full-stack development
+        • Connect with fellow developers in Vienna
+        
+        Let's build something amazing together!
+        """
+
+# Create instance
+me = IftekherAziz()
+print(me.current_motto())
+# Output: "From stars to servers - building systems that scale ✨"
 ```
+
+**🔥 Quick Facts:**
+- 🌌 **Research:** Published IEEE paper on ML & working on GPU-accelerated astrophysical clustering
+- 💻 **Experience:** 2+ years professional software development + ongoing freelance work
+- 🎯 **Goal:** Transition from full-stack dev → DevOps/ML Infrastructure Engineer
+- 🌍 **Work:** International clients via Fiverr & Upwork since 2019
+- 📊 **Achievement:** Built clustering algorithm with **32x GPU speedup** using RAPIDS
+- 🎓 **Education:** Finishing MSc at University of Vienna (Expected Dec 2027)
 
 ---
 
