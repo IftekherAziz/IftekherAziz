@@ -105,15 +105,33 @@ Hey! 👋 I'm Iftekher Aziz, an MSc Computer Science student at the University o
 
 ### 💡 What I'm Looking For
 
-I'm seeking opportunities to:
+I'm seeking opportunities to grow as a **Full-Stack Developer** or **DevOps Engineer** where I can apply my experience and learn from talented teams.
 
-✅ **Build scalable AI infrastructure** - Data pipelines, model deployment, system optimization  
-✅ **Work with AI engineers & data scientists** - Support production-ready systems  
-✅ **Contribute to automation** - CI/CD workflows, DevOps practices  
-✅ **Learn & adapt quickly** - New tools, technologies, evolving requirements  
-✅ **Develop reliable systems** - High-performance, production-grade platforms  
+**Ideal Roles:**
+- 🎨 **Frontend Developer** - Building responsive, user-friendly interfaces with React/Next.js
+- ⚙️ **Backend Developer** - Designing scalable APIs and robust server-side systems
+- 💻 **Software Engineer** - Full-stack development across the entire tech stack
+- 🚀 **Junior DevOps Engineer** - CI/CD pipelines, containerization, cloud infrastructure
+- 🤖 **ML Infrastructure Engineer** - Deploying ML models, building data pipelines, system optimization
 
-**Ideal Roles:** Frontend Developer, Backend Developer, Software Engineer,  Junior DevOps Engineer, ML Infrastructure Engineer
+**What I Bring:**
+- ✅ **Professional Experience** - 2+ years backend development + ongoing freelance work
+- ✅ **Full-Stack Skills** - MERN stack, TypeScript, Next.js, REST APIs, databases
+- ✅ **DevOps Foundation** - Docker, Git, Linux, CI/CD basics, learning Kubernetes & cloud platforms
+- ✅ **ML/Data Background** - GPU computing, Python data science, published research
+- ✅ **Quick Learner** - Proven ability to adapt to new technologies and requirements
+- ✅ **Team Player** - Cross-functional collaboration, clear communication, meeting deadlines
+
+**What Excites Me:**
+- 🔧 Building reliable, production-grade systems that scale
+- 🤝 Working with talented engineers and learning best practices
+- 🚀 Contributing to CI/CD workflows and automation
+- 📊 Supporting data-driven products and ML pipelines
+- ☁️ Exploring cloud infrastructure and modern DevOps tools
+
+**📋 Work Authorization:** 
+- Current: Student visa (up to 20 hours/week)
+- Eligible: Rot-Weiß-Rot (RWR) Card for Skilled Workers in Shortage Occupations (IT/Software Development)
 
 ---
 
