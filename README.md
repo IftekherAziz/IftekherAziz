@@ -17,75 +17,155 @@
 
 ### 👨‍💻 About Me
 
-Hey! 👋 I'm Aziz, a Computer Science graduate student at the University of Vienna, currently diving deep into **Fullstack Engineering** & **DevOps Engineering** while wrapping up my thesis.
+Hey! 👋 I'm Iftekher Aziz, an MSc Computer Science student at the University of Vienna with **professional software development experience** and a passion for **AI infrastructure** and **cloud-based systems**.
 
-- 🎓 **MSc in Computer  at University of Vienna** (Thesis phase)
-- 🌱 **Currently Learning:** DevOps fundamentals, infrastructure as code, containerization
-- 📍 **Based in:** Vienna, Austria
-- 💼 **Looking for:** Junior DevOps/Software Engineer roles in Austria
-- 🗣️ **Languages:** English (fluent), German (A2, improving)
+- 🎓 **MSc Computer Science** - University of Vienna (Expected: Dec 2027)
+- 💼 **Experience:** 2+ years as Software Developer + ongoing freelance work
+- 🔧 **Current Focus:** DevOps Engineering, AI/ML Infrastructure, Cloud Systems
+- 🌱 **Learning:** Docker, CI/CD, AWS/Azure, Workflow Automation
+- 📍 **Location:** Vienna, Austria
+- 🗣️ **Languages:** English (Fluent), German (A2, actively learning)
+
+> *"Passionate about building scalable AI infrastructure, deploying reliable ML pipelines, and supporting production-ready systems"*
 
 ---
 
 ### 🛠️ Technical Stack
 
-**DevOps & Infrastructure** *(Beginner)*
-```
-Docker • Git • Linux • Shell Scripting • CI/CD Basics
-```
+<div align="center">
 
-**Backend & Databases**
-```
-Node.js • Express.js • MongoDB  • PostgreSql • MySQL • REST APIs
-```
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend Development**
-```
-React.js • JavaScript • HTML/CSS • Tailwind CSS, NextJS
-```
+#### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Machine Learning & Data Science**
-```
-Python • NumPy • Pandas • Scikit-learn • RAPIDS cuML • CuPy
-GPU Computing • DBSCAN/HDBSCAN • Astrophysical Data Analysis
-```
+#### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Tools & Platforms**
-```
-Git/GitHub • VS Code • Jupyter • Docker • Linux • Postman
-```
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+#### 🤖 Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### 🚀 GPU Computing & HPC
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RAPIDS](https://img.shields.io/badge/RAPIDS-7B42BC?style=for-the-badge&logo=nvidia&logoColor=white)
+![CuPy](https://img.shields.io/badge/CuPy-0E4C92?style=for-the-badge&logo=python&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### ☁️ Cloud & Infrastructure (Learning)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### 🔧 Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+</div>
 
 ---
 
-### 🏅 Certifications & Achievements
+### 🏅 Achievements & Publications
 
-- 🎓 Network Security CTF Challenges (UVienna)
-- 🔬 Research in GPU-accelerated ML for astrophysics
-- 💻 Full-stack web applications with MERN stack
-- 📝 Academic publications in data science
+#### 📄 Published Research
+**"Identification of Spoken Language Using a Machine Learning Approach"**
+- 📚 23rd International Conference on Computer and Information Technology, 2020
+- 🏢 Publisher: IEEE
+- 🔗 [View Publication](#)
+
+---
+
+### 💡 What I'm Looking For
+
+I'm seeking opportunities to:
+
+✅ **Build scalable AI infrastructure** - Data pipelines, model deployment, system optimization  
+✅ **Work with AI engineers & data scientists** - Support production-ready systems  
+✅ **Contribute to automation** - CI/CD workflows, DevOps practices  
+✅ **Learn & adapt quickly** - New tools, technologies, evolving requirements  
+✅ **Develop reliable systems** - High-performance, production-grade platforms  
+
+**Ideal Roles:** Junior DevOps Engineer, ML Infrastructure Engineer, Backend Developer, Software Engineer
 
 ---
 
 ### 📫 Let's Connect!
 
-- 💼 **Open to:** Junior DevOps, Software Engineer, Backend Developer roles in Vienna
-- 📧 **Email:** your.email@example.com
-- 🔗 **LinkedIn:** [Your Profile](your-linkedin-url)
-- 🌐 **Portfolio:** [Coming Soon]
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [aziziftekher@gmail.com](mailto:aziziftekher@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/iftekheraziz](https://linkedin.com/in/iftekheraziz) |
+| 🌐 Portfolio | [iftekheraziz.github.io](https://iftekheraziz.github.io) |
+| 📱 Phone | +43 681 10490891 |
+| 📍 Location | Vienna, Austria |
+
+</div>
+
+---
+
+### 🌟 Fun Facts
+
+```python
+class IftekherAziz:
+    def __init__(self):
+        self.currently_doing = [
+            "🎓 Finishing MSc thesis",
+            "🐳 Learning Docker & Kubernetes",
+            "☁️ Exploring AWS/Azure",
+            "🇩🇪 Improving German (A2→B1)"
+        ]
+        
+        self.interests = {
+            "professional": ["DevOps", "AI Infrastructure", "Cloud Systems"],
+            "research": ["GPU Computing", "Astrophysical Data", "ML Optimization"],
+            "hobbies": ["CTF Challenges", "Open Source", "Tech Communities"]
+        }
+        
+    def current_motto(self):
+        return "From stars to servers - building systems that scale ✨"
+```
 
 ---
 
 <div align="center">
 
-### 💡 Fun Facts
+### 🚀 "Building efficient, production-ready AI systems one pipeline at a time"
 
-🔭 I analyze stellar data from the Gaia space telescope  
-⚡ I'm learning German while learning DevOps - double challenge!  
-🎮 CTF enthusiast - binary exploitation is my jam  
-📚 Always exploring: from GPU computing to cloud infrastructure
+![Profile Views](https://komarev.com/ghpvc/?username=IftekherAziz&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=IftekherAziz.IftekherAziz)
 
----
+**⭐ Open to collaboration | 💼 Actively seeking opportunities in Vienna**
+
+</div>
+
 
 **"From stars to servers - building systems that scale"** ✨
 
