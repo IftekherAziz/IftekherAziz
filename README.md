@@ -119,102 +119,20 @@ I'm seeking opportunities to:
 
 ### 📫 Let's Connect!
 
-<div>
+<div align="center">
 
 | Platform | Link |
 |----------|------|
 | 📧 Email | [aziziftekher@gmail.com](mailto:aziziftekher@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/iftekheraziz](https://linkedin.com/in/iftekheraziz) |
 | 🌐 Portfolio | [iftekheraziz.github.io](https://iftekheraziz.github.io) |
+| 💚 Hire Me | [Fiverr Profile](https://www.fiverr.com/s/e6ZPRaP) |
 | 📱 Phone | +43 681 10490891 |
 | 📍 Location | Vienna, Austria |
 
 </div>
 
 ---
-
-### 🌟 Fun Facts
-
-```python
-class IftekherAziz:
-    def __init__(self):
-        self.name = "Iftekher Aziz"
-        self.role = "MSc CS Student & Aspiring DevOps Engineer"
-        self.location = "Vienna, Austria 🇦🇹"
-        
-        self.currently_doing = [
-            "🎓 Finishing MSc thesis on ML & Data Science",
-            "🐳 Learning Docker & Kubernetes",
-            "☁️ Exploring AWS/Azure cloud platforms",
-            "🇩🇪 Improving German (A2 → B1)",
-            "💼 Seeking DevOps/ML Infrastructure roles"
-        ]
-        
-        self.interests = {
-            "professional": [
-                "DevOps Engineering",
-                "AI/ML Infrastructure", 
-                "Cloud Systems & Architecture",
-                "CI/CD Automation"
-            ],
-            "research": [
-                "GPU-Accelerated Computing",
-                "Astrophysical Data Analysis",
-                "Machine Learning Optimization",
-                "Density-Based Clustering"
-            ],
-            "hobbies": [
-                "CTF Challenges & Binary Exploitation",
-                "Open Source Contributions",
-                "Tech Communities & Meetups",
-                "Exploring Vienna's Tech Scene"
-            ]
-        }
-        
-        self.tech_stack = {
-            "languages": ["Python", "JavaScript", "TypeScript", "SQL"],
-            "backend": ["Node.js", "Express.js", "NestJS"],
-            "frontend": ["React", "Next.js", "TailwindCSS"],
-            "devops": ["Docker", "Git", "Linux", "CI/CD"],
-            "ml_tools": ["NumPy", "Pandas", "RAPIDS", "CUDA"],
-            "databases": ["MongoDB", "PostgreSQL", "MySQL"],
-            "learning": ["Kubernetes", "AWS", "Azure", "Terraform"]
-        }
-        
-    def current_motto(self):
-        return "From stars to servers - building systems that scale ✨"
-    
-    def get_fun_fact(self):
-        return "I analyze data from space telescopes AND build web apps. Best of both worlds! 🚀🌌"
-    
-    def say_hello(self):
-        return """
-        👋 Hey! I'm always excited to:
-        • Collaborate on DevOps/ML projects
-        • Discuss GPU computing & astrophysics
-        • Share knowledge about full-stack development
-        • Connect with fellow developers in Vienna
-        
-        Let's build something amazing together!
-        """
-
-# Create instance
-me = IftekherAziz()
-print(me.current_motto())
-# Output: "From stars to servers - building systems that scale ✨"
-```
-
-**🔥 Quick Facts:**
-- 🌌 **Research:** Published IEEE paper on ML & working on GPU-accelerated astrophysical clustering
-- 💻 **Experience:** 2+ years professional software development + ongoing freelance work
-- 🎯 **Goal:** Transition from full-stack dev → DevOps/ML Infrastructure Engineer
-- 🌍 **Work:** International clients via Fiverr & Upwork since 2019
-- 📊 **Achievement:** Built clustering algorithm with **32x GPU speedup** using RAPIDS
-- 🎓 **Education:** Finishing MSc at University of Vienna (Expected Dec 2027)
-
----
-
-<div >
 
 ### 🚀 "Building efficient, production-ready AI systems one pipeline at a time"
 
